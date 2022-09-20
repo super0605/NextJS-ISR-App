@@ -1,0 +1,57 @@
+.containerInner {
+  max-width: 640px;
+}
+
+.postDetailWrap {
+  display: block;
+}
+
+.postTitle {
+  font-size: 60px;
+  line-height: 68px;
+  text-align: center;
+}
+
+.postInfoWrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.postDate {
+  color: #6a7885;
+  font-size: 1rem;
+  line-height: 0.9rem;
+}
+
+.postAvatarWrap {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  margin-left: 1rem;
+  max-width: 100%;
+  position: relative;
+}
+
+.postAvatarWrap img {
+  border-radius: 50%;
+}
+
+.postImgWrap {
+  width: 100%;
+  max-width: 640px;
+  min-height: 400px;
+  position: relative;
+}
+
+.postImgWrap img {
+  border-radius: 0.5rem;
+}
+
+.postDescription {
+  font-weight: 400;
+  text-align: left;
+  font-size: 1.4rem;
+  line-height: 1.75rem;
+}
