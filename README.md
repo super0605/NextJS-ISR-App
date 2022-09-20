@@ -3,6 +3,12 @@
 This is an NextJS ISR App for posts list and post detail page.
 Regarding the backend, it used dummy posts backend apis.
 
+
+## Demo
+- [NextJS ISR App](https://next-js-isr-app.vercel.app)
+- [Demo Video](https://www.loom.com/share/7712823ffe304127ab6038aff821b462)
+
+
 ## TechStack
 
 I have used modern NextJS techstack to build this app as following:
